@@ -52,6 +52,7 @@ these boxes:
 * https://cal.com - Calendly
 * 🔒 https://proton.me 💩 - Google Suite
 * https://excalidraw.com - Miro
+* 🔒 https://tailscale.com - NordVPN? Cisco AnyConnect VPN?
 
 ## Apps - Self Hosted
 
