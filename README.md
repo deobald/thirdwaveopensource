@@ -39,6 +39,8 @@ these boxes:
 
 ## Apps - Lofi
 
+* https://syncthing.net/ - Airdrop? DropBox? There aren't really competitors to this.
+
 ## Apps - SaaS
 
 * https://bitwarden.com 💩 - 1Password, LastPass
