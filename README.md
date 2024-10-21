@@ -41,7 +41,7 @@ these boxes:
 
 ## Apps - SaaS
 
-* https://bitwarden.com - 1Password, LastPass
+* https://bitwarden.com 💩 - 1Password, LastPass
 * https://ente.io - Google Photos, Apple Photos
 * https://ente.io/auth - Google Authenticator, Microsoft Authenticator
 * 🌏 https://mastodon.social - Twitter
@@ -53,6 +53,7 @@ these boxes:
 * 🔒 https://proton.me 💩 - Google Suite
 * https://excalidraw.com - Miro
 * 🔒 https://tailscale.com - NordVPN? Cisco AnyConnect VPN?
+* https://discourse.org/ - Slack, Mailing lists ... SharePoint?
 
 ## Apps - Self Hosted
 
