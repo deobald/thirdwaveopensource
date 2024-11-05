@@ -56,6 +56,7 @@ these boxes:
 * https://excalidraw.com - Miro
 * 🔒 https://tailscale.com - NordVPN? Cisco AnyConnect VPN?
 * https://discourse.org/ - Slack, Mailing lists ... SharePoint?
+* https://www.beeper.com/ - Pidgin? ha. No competitor.
 
 ## Apps - Self Hosted
 
